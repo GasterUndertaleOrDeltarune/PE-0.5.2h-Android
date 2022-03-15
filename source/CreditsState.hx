@@ -89,6 +89,12 @@ class CreditsState extends MusicBeatState
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',						'https://twitter.com/RiverOaken',		'C30085'],
 			['shubs',				'shubs',			'Additional Programmer of Psych Engine',					'https://twitter.com/yoshubs',			'279ADC'],
 			[''],
+			['The T Pose Squad']
+			['Sella',	 'sella',	 'literally everything.',	 'https://youtube.com/c/Imarandom_arandomcapelucinakawaiifangirl', 'F73838'],
+			['Capelucina',	 'cape',	'Crush and friend and artist not the artist but hit me up', 'about:blank', '261EA9'],		
+			['Daniela', 'dani', 'Cool mom', 'about:blank', '53E52C'],	
+			['Megalo', 'bitch', 'Just a fremeney', 'about:blank', '53E52C'],	
+			[''],
 			['Former Engine Members'],
 			['bb-panzu',			'bb-panzu',			'Ex-Programmer of Psych Engine',							'https://twitter.com/bbsub3',			'389A58'],
 			[''],
